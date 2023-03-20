@@ -1,7 +1,7 @@
 ### C++ Day 2
 #### 1. 메모리 할당
-* 키워드: 컴파일러가 인식하는 단어 (int, double, if, switch, ...). 
-      * 헤더를 포함하지 않아도 컴파일러 자체가 인식
+* 키워드: 컴파일러가 인식하는 단어 (int, double, if, switch, ...)
+     * 헤더를 포함하지 않아도 컴파일러 자체가 인식
 * int* p1 = new int; delete p1;
 * int* p2 = new int[10]; delete[] p2;
 
